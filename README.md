@@ -6,8 +6,7 @@
 
 ---
 
-![Project Image](https://placehold.co/800x400/EBF8FF/7F9CF5?text=System+Architecture+Diagram)
-*(Replace this with a diagram of your Split-Node design or system architecture)*
+<img width="426" height="1041" alt="Image" src="https://github.com/user-attachments/assets/c98146cd-6000-4b97-b21a-b9ffca814d44" />
 
 ## 1. The Problem
 
@@ -41,8 +40,7 @@ I am the **Sole Researcher and Developer** for this project.
 
 ## 5. Proof of Progress
 
-* **[Project Proposal]:** (Upload your proposal document if available, or remove this line)
-* **[Code Repository]:** (Link to the folder containing your current firmware code)
+* **In Progress** 
 
 ## 6. Project Status
 
