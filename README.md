@@ -1,8 +1,8 @@
-# Integrated Non-Adhesive Infant Vital Sign Monitoring System
+# Integrated Non-Adhesive Pediatric Vital Sign Monitoring System
 
 **Tags:** `[Ongoing]`, `Thesis`, `IoT`, `Hardware`, `Sensor Fusion`, `ESP32`, `Wearable`
 
-> **Status: [Ongoing]** This is my active undergraduate thesis focusing on the development of a non-invasive, split-node wearable system for infant monitoring.
+> **Status: [Ongoing]** This is my active undergraduate thesis focusing on the development of a non-invasive, split-node wearable system for pediatric monitoring.
 
 ---
 
@@ -10,7 +10,7 @@
 
 ## 1. The Problem
 
-Continuous monitoring of infant vital signs (Respiratory Rate and SpO2) is critical for early detection of emergencies, particularly for infants in the interstage phase. However, traditional adhesive electrodes can damage fragile infant skin, and wired connections limit mobility and comfort. Current solutions often lack effective motion artifact suppression, leading to false alarms.
+Continuous monitoring of pediatric vital signs (Respiratory Rate and SpO2) is critical for early detection of emergencies, particularly for pediatrics in the interstage phase. However, traditional adhesive electrodes can damage fragile pediatric skin, and wired connections limit mobility and comfort. Current solutions often lack effective motion artifact suppression, leading to false alarms.
 
 ## 2. My Solution
 
